@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url(https://pic.clubic.com/v1/images/1767160/raw?width=1200&fit=max&hash=2df85eee8388277ec6766faa8fbb196bd3595100);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: top;
+  background-color: #282c34;
+}
+
+.comment{
+  margin-top: 500px;
+  width: 300px;
+}
